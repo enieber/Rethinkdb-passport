@@ -1,0 +1,19 @@
+2015-11-24T04:55:35.463150682 1.357287s notice: Recursively removing directory /home/enieber/passport-rethinkdb-tutorial/rethinkdb_data/tmp
+2015-11-24T04:55:35.531803127 1.425939s notice: Initializing directory /home/enieber/passport-rethinkdb-tutorial/rethinkdb_data
+2015-11-24T04:55:35.531993884 1.426129s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/home/enieber/passport-rethinkdb-tutorial/rethinkdb_data' did not already exist or is empty.)
+2015-11-24T04:55:35.532047005 1.426183s notice: Running rethinkdb 2.1.5-2 (GCC 4.9.2)...
+2015-11-24T04:55:35.560538314 1.454678s notice: Running on Linux 3.19.0-32-generic x86_64
+2015-11-24T04:55:35.560689492 1.454825s notice: Loading data from directory /home/enieber/passport-rethinkdb-tutorial/rethinkdb_data
+2015-11-24T04:55:35.992550147 1.886686s info: Automatically using cache size of 324 MB
+2015-11-24T04:55:35.993921414 1.888057s notice: Listening for intracluster connections on port 29015
+2015-11-24T04:55:35.997750647 1.891886s notice: Listening for client driver connections on port 28015
+2015-11-24T04:55:35.998042412 1.892178s notice: Listening for administrative HTTP connections on port 8080
+2015-11-24T04:55:35.998050437 1.892186s notice: Listening on addresses: 127.0.0.1, ::1
+2015-11-24T04:55:35.998051223 1.892186s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2015-11-24T04:55:35.998055359 1.892191s notice: Server ready, "enieber_k6a" 2b268b42-fd8b-4f7e-a922-962e0041fc17
+2015-11-24T04:55:47.095209484 12.989345s notice: A newer version of the RethinkDB server is available: 2.2.1. You can read the changelog at <https://github.com/rethinkdb/rethinkdb/releases>.
+2015-11-24T05:05:33.710011857 599.604148s info: Table 6e83b436-fdfd-46aa-960c-ade45f41b2d6: Added replica on this server.
+2015-11-24T05:05:34.973316006 600.867452s info: Table 6e83b436-fdfd-46aa-960c-ade45f41b2d6: Starting a new Raft election for term 1.
+2015-11-24T05:05:35.025313374 600.919449s info: Table 6e83b436-fdfd-46aa-960c-ade45f41b2d6: This server is Raft leader for term 1. Latest log index is 0.
+2015-11-24T05:05:35.919648116 601.813784s info: Table 6e83b436-fdfd-46aa-960c-ade45f41b2d6: Configuration is changing.
+2015-11-24T05:07:35.710224159 722.075673s notice: Someone asked for the nonwhitelisted file "/auth/login/callback/github".  If this should be accessible, add it to the static web assets.
